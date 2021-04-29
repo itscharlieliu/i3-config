@@ -1,0 +1,16 @@
+*
+
+!.gitattributes
+!.gitignore
+!readme.md
+!.gitkeep
+
+!termite/*
+!dconf/*
+!i3/*
+!mc/*
+!nitrogen/*
+!picom.conf
+
+
+!*/
