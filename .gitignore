@@ -6,7 +6,6 @@
 !.gitkeep
 
 !termite/*
-!dconf/*
 !i3/*
 !mc/*
 !nitrogen/*
